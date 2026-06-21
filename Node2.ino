@@ -60,12 +60,12 @@
 #define SMS_COOLDOWN_MS 60000
 
 // ── WiFi ──────────────────────────────────────────────────────────
-const char* WIFI_SSID = "shashank";
-const char* WIFI_PASS = "shashank";
+const char* WIFI_SSID = "SSID NAME";
+const char* WIFI_PASS = "PASSWORD";
 
 // ── Firebase ──────────────────────────────────────────────────────
-#define API_KEY      "AIzaSyC_VAznxpLqoi9xiCXa1SlTNCIaLT4qrRc"
-#define DATABASE_URL "https://vbedas-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY      "API KEY"
+#define DATABASE_URL "DATABASE NAME"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
