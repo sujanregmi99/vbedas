@@ -50,13 +50,14 @@ DateTime? _n1VibTime;
 DateTime? _n2VibTime;
 
 const FirebaseOptions firebaseOptions = FirebaseOptions(
-  apiKey:            'AIzaSyC_VAznxpLqoi9xiCXa1SlTNCIaLT4qrRc',
-  authDomain:        'vbedas.firebaseapp.com',
-  databaseURL:       'https://vbedas-default-rtdb.asia-southeast1.firebasedatabase.app',
-  projectId:         'vbedas',
-  storageBucket:     'vbedas.firebasestorage.app',
-  messagingSenderId: '38863431120',
-  appId:             '1:38863431120:web:7200dc3feda823673645d5',
+  firebase config
+    apiKey:           
+  authDomain:        
+  databaseURL:       
+  projectId:         
+  storageBucket:     
+  messagingSenderId: 
+  appId:             
 );
 
 // ═══════════════════════════════════════════════════════════════════════════════
